@@ -1,2 +1,0 @@
-# DaysOfSwift
-Swift Courses
